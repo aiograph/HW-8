@@ -1,0 +1,11 @@
+th, td{
+    border: 1px black solid;
+}
+
+th:hover{
+    color: grey;
+}
+
+td:hover, :focus{
+    color: orchid;
+}
